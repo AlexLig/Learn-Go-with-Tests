@@ -1,4 +1,4 @@
-package iteration
+package iterations
 
 func Repeat(text string, numberOfTimes int) string {
 	var repeated string
