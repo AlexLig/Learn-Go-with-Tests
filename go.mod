@@ -1,3 +1,3 @@
-module github.com/AlexLig/Learn-Go-with-Tests/tree/c40424bfd57694279a69c0a78a9034b4c587cbe
+module github.com/AlexLig/Learn-Go-with-Tests
 
-go 1.17
+go 1.19
